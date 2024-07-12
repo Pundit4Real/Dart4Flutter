@@ -1,5 +1,3 @@
-import 'dart:io';
-
 void main() {
 //if conditions
  int score = 65;
