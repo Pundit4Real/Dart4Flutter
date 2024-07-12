@@ -1,6 +1,3 @@
-import 'dart:async';
-import 'dart:io';
-
 void main() {
   var car1 = new Vehicle("v6");
   Vehicle car2 = new Vehicle('v8');

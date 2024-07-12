@@ -1,5 +1,3 @@
-import 'functions.dart';
-
 void main() {
   //for loops, a definite loop
   for (int i = 0; i <= 10; i++) {
