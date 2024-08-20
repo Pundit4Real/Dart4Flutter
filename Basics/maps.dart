@@ -9,4 +9,12 @@ void main() {
   print(userAges);
 
   print(userAges["Jeff"]);
+
+//Defualt structure of defining maps, 
+  Map<String, int> studentsAge = {"Hajia": 22, "Tulasi": 24, "Brown": 25};
+  print(studentsAge);
+  print(studentsAge['Hajia']);
+
+  Map<String,String> 
+
 }
